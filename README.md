@@ -10,7 +10,7 @@ Persyaratan:
 1. Pertama tama clone reository ini dulu dan pindah kedirectory foldernya
    ```
    git clone https://github.com/ohnolil/kalkulator-lingkaran.git
-   cd kalkulator-lingkaran.git
+   cd kalkulator-lingkaran
    ```
 
 2. Kemudian jalankan
